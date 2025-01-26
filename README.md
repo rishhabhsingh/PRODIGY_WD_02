@@ -1,5 +1,6 @@
 #PRODIGY_WD_02
 #Stopwatch Web Application
+
 A simple and functional stopwatch built using HTML, CSS, and JavaScript. This app allows users to start, stop, and reset the timer with a clean and user-friendly interface.
 
 Features:
